@@ -1,0 +1,39 @@
+INFO [2018-11-18 22:11:46] [ifnatal]  Session started!
+INFO [2018-11-18 22:12:07] [ifnatal]  Logged in successfully!
+INFO [2018-11-18 22:12:11] [ifnatal]  Tag [1/1]
+INFO [2018-11-18 22:12:11] [ifnatal]  --> b'laranja'
+INFO [2018-11-18 22:12:21] [ifnatal]  desired amount: 2  |  top posts [disabled]: 9  |  possible posts: 389828
+INFO [2018-11-18 22:12:28] [ifnatal]  [1/2]
+INFO [2018-11-18 22:12:28] [ifnatal]  https://www.instagram.com/p/BqV9BG6hydB/
+INFO [2018-11-18 22:12:33] [ifnatal]  Image from: b'wandersonoliveira.18'
+INFO [2018-11-18 22:12:33] [ifnatal]  Link: b'https://www.instagram.com/p/BqV9BG6hydB/'
+INFO [2018-11-18 22:12:33] [ifnatal]  Description: b'much highlight \xe2\x98\x80\xef\xb8\x8f #praia #sol #amigos #deboismo #feliz #good #sun #praiano #destaque #laranja #cinza'
+INFO [2018-11-18 22:12:36] [ifnatal]  User: wandersonoliveira.18 >> followers: 2214  |  following: 1941  |  relationship ratio: 1.14
+INFO [2018-11-18 22:12:41] [ifnatal]  --> Image Liked!
+INFO [2018-11-18 22:12:43] [ifnatal]  --> Not commented
+INFO [2018-11-18 22:12:44] [ifnatal]  --> Not following
+INFO [2018-11-18 22:12:45] [ifnatal]  [2/2]
+INFO [2018-11-18 22:12:45] [ifnatal]  https://www.instagram.com/p/BqV7975AOAu/
+INFO [2018-11-18 22:12:48] [ifnatal]  Image from: b'tayseeoliveiraa'
+INFO [2018-11-18 22:12:48] [ifnatal]  Link: b'https://www.instagram.com/p/BqV7975AOAu/'
+INFO [2018-11-18 22:12:48] [ifnatal]  Description: b'Aquela make bem b\xc3\xa1sica por\xc3\xa9m o foco \xc3\xa9 nos c\xc3\xadlios de boneca..\xf0\x9f\x98\x8d babadeiro viu gente, o n\xc3\xbamero infelismente n\xc3\xa3o lembro pois peguei emprestado kkkkkk mais amei peguei pra testar com c\xc3\xadlios maiores como me sentia e amei sei que \xc3\xa9 daqueles r\xc3\xa9plicas da kylie amei demais e j\xc3\xa1 quero comprar para mim \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x82'
+INFO [2018-11-18 22:12:52] [ifnatal]  User: tayseeoliveiraa >> followers: 15032  |  following: 1337  |  relationship ratio: 11.24
+INFO [2018-11-18 22:13:20] [ifnatal]  --> Invalid Like Element!
+INFO [2018-11-18 22:13:20] [ifnatal]  Tag: b'laranja'
+INFO [2018-11-18 22:13:20] [ifnatal]  Liked: 1
+INFO [2018-11-18 22:13:20] [ifnatal]  Already Liked: 0
+INFO [2018-11-18 22:13:20] [ifnatal]  Commented: 0
+INFO [2018-11-18 22:13:20] [ifnatal]  Followed: 0
+INFO [2018-11-18 22:13:20] [ifnatal]  Inappropriate: 0
+INFO [2018-11-18 22:13:20] [ifnatal]  Not valid users: 0
+
+INFO [2018-11-18 22:13:23] [ifnatal]  Sessional Live Report:
+	|> LIKED 1 images  |  ALREADY LIKED: 0
+	|> COMMENTED on 0 images
+	|> FOLLOWED 0 users  |  ALREADY FOLLOWED: 0
+	|> UNFOLLOWED 0 users
+	|> INAPPROPRIATE images: 0
+	|> NOT VALID users: 0
+currently FOLLOWING 385 users & has got 108 FOLLOWERS
+
+INFO [2018-11-18 22:13:23] [ifnatal]  Session ended!
